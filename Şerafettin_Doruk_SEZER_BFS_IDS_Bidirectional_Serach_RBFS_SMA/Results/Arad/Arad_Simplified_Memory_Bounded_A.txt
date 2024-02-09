@@ -1,0 +1,11 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Simplified_Memory_Bounded_A Statistics: Arad to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  1708
+
+Shortest Path:
+
+['Arad', 'Sibiu', 'Fagaras', 'Bucharest'] 
+

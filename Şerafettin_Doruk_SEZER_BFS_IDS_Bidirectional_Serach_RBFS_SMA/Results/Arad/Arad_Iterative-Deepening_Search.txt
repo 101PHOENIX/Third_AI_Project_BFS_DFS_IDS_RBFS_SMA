@@ -1,0 +1,14 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Iterative-Deepening_Search Statistics: Arad to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  1258
+
+Shortest Path:
+
+['Arad', 'Sibiu', 'Fagaras', 'Bucharest'] 
+
+Other Routes:
+    
+{'Arad', 'Zerind', 'Timisoara', 'Sibiu'}

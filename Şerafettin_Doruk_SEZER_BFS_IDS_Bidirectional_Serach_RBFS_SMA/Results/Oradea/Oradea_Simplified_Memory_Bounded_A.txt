@@ -1,0 +1,11 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Simplified_Memory_Bounded_A Statistics: Oradea to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  1466
+
+Shortest Path:
+
+['Oradea', 'Sibiu', 'Fagaras', 'Bucharest'] 
+

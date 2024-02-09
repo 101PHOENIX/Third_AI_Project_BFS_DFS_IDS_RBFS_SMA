@@ -1,0 +1,11 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Recursive-Best-First_Search Statistics: Arad to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  447
+
+Shortest Path:
+
+['Arad', 'Sibiu', 'Rimnicu_Vilcea', 'Pitesti', 'Bucharest'] 
+
